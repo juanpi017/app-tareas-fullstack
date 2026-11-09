@@ -1,6 +1,6 @@
 # App de Tareas Full Stack
 
-[Describe en 1 o 2 frases qué hace la app. Por ejemplo: aplicación para crear, completar y eliminar tareas, con los datos guardados en una base de datos MySQL.]
+aplicación para crear, completar y eliminar tareas, con los datos guardados en una base de datos MySQL
 
 ## Tecnologías
 
