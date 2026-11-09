@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (contraseñas)
+.env
+.env.*
+!.env.example
+
+# Archivos generados
+dist/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
